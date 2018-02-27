@@ -1,0 +1,12 @@
+{
+    "name": "zingus/mixxx-cmd-pl1-support",
+    "type": "package",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Zingus J. Rinkle",
+            "email": "zingus@gmail.com"
+        }
+    ],
+    "require": {"zingus/monotable":"dev-master"}
+}

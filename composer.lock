@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "834db5879d0a97e29b6f61ea964e28b4",
+    "packages": [
+        {
+            "name": "zingus/monotable",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zingus/monotable.git",
+                "reference": "99c192f104ee0108236d244b138c5ce720bbdf4c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zingus/monotable/zipball/99c192f104ee0108236d244b138c5ce720bbdf4c",
+                "reference": "99c192f104ee0108236d244b138c5ce720bbdf4c",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL"
+            ],
+            "authors": [
+                {
+                    "name": "Zingus J. Rinkle",
+                    "email": "zingus@gmail.com"
+                }
+            ],
+            "description": "Monotable is a talbe format bla bla",
+            "time": "2017-11-09T05:08:51+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "zingus/monotable": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

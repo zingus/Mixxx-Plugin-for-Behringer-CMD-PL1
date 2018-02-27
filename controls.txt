@@ -1,0 +1,16 @@
+num   control             keyname   options foreach_deck callback
+0x18  LoadSelectedTrack   load              
+0x19  keylock             lock
+0x1B  scratch
+0x20  beatsync            sync
+0x21  bpm_tap             tap
+0x23  play
+0x22  cue_default         cue
+0x24  back                <<        noteoff
+0x25  fwd                 >>        noteoff
+0x26  rate_perm_down      minus     noteoff
+0x27  rate_perm_up        plus      noteoff
+0x10  hotcue_1_activate   button 1
+0x11  hotcue_2_activate   button 2
+0x12  hotcue_3_activate   button 3
+0x13  hotcue_4_activate   button 4
